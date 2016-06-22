@@ -113,3 +113,6 @@ h4 a {
 h3 a:hover {
     color: yellow;
 }
+table, td, th {
+    border: 1px solid gray
+}
