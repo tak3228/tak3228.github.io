@@ -53,11 +53,8 @@ nav ul li a.selected {
     margin: 50px 0;
 }
 #logo a {
-    max-width: 100px;
-    max-height: 30px;
-    margin: 0 0 0 10px;
-    text-decoration: none;
     color: cyan;
+    text-decoration: none;
 }
 section {
     padding: 30px 20px;
@@ -66,12 +63,9 @@ section h2 {
     padding: 100px 0 20px 0;
     text-align: center;
 }
-section p {
-    text-align: center;
-}
-section a {
-    color: cyan;
-    text-decoration: none;
+table {
+    margin-left: auto;
+    margin-right: auto;
 }
 footer {
     text-align: right;
