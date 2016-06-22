@@ -38,8 +38,8 @@ nav ul li a {
     font-weight: bold;
     letter-spacing: 0.2em;
 }
-nav ul li a.selected {
-    color: #bbb;
+nav ul li a:hover {
+    color: #ddd;
 }
 #logo {
     padding: 20px 0;
