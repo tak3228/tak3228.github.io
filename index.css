@@ -59,6 +59,9 @@ nav ul li a.selected {
     text-decoration: none;
     color: cyan;
 }
+#logo a:hover {
+    color: yellow;
+}
 section {
     padding: 30px 20px;
 }
@@ -73,8 +76,13 @@ section a {
     color: cyan;
     text-decoration: none;
 }
+section a:hover {
+    color: yellow;
+}
 footer {
     text-align: right;
     background-color: #ddd;
     color: black;
+}
+
 }
